@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaDHouSe79/mh-parking/issues">
-    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-parking"/> 
+  <a href="https://github.com/MaDHouSe79/mh-breakcuffs/issues">
+    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-breakcuffs"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-parking/watchers">
-    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-parking"/> 
+  <a href="https://github.com/MaDHouSe79/mh-breakcuffs/watchers">
+    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-breakcuffs"/> 
   </a> 
-  <a href="https://github.com/MaDHouSe79/mh-parking/network/members">
-    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-parking"/> 
+  <a href="https://github.com/MaDHouSe79/mh-breakcuffs/network/members">
+    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-breakcuffs"/> 
   </a>  
-  <a href="https://github.com/MaDHouSe79/mh-parking/stargazers">
-    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-parking?color=white"/> 
+  <a href="https://github.com/MaDHouSe79/mh-breakcuffs/stargazers">
+    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-breakcuffs?color=white"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-parking/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-parking?color=black"/> 
+  <a href="https://github.com/MaDHouSe79/mh-breakcuffs/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-breakcuffs?color=black"/> 
   </a>      
 </p>
 
