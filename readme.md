@@ -88,10 +88,6 @@ const difficultySettings = {
 
 # How to use your own skillbar script.
 - Change this export in `mh-breakcuffs/client/main.lua` on line 9 to you're own export skillbar script. 
-- Example
-```lua
-local success = exports["qb-minigames"]:Skillbar(Config.SkillbarLevel, Config.SkillbarKeys)
-```
 
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
