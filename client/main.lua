@@ -10,6 +10,7 @@ local function BreakLoose()
                 if success then
                     breakcuffs = breakcuffs + 1
                     TriggerServerEvent("InteractSound_SV:PlayOnSource", "Uncuff", 0.2)
+                    ClearPedTasksImmediately(PlayerPedId())
                     exports['qb-policejob']:SetHandcuffed(false)
                     exports['qb-policejob']:SetEscorted(false)
                     exports['qb-policejob']:SetHandcuffStatus(false)
