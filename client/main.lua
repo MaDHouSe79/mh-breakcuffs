@@ -18,6 +18,7 @@ local function BreakLoose()
                     return
                 else
                     breakcuffs = breakcuffs + 1
+                    exports['qb-policejob']:SetHandcuffStatus(true)
                     QBCore.Functions.Notify(Lang:t('info.break_failed'), "error")         
                     return
                 end
