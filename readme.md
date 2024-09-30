@@ -69,17 +69,17 @@ exports('SetHandcuffStatus', SetHandcuffStatus)
 ```js
 const difficultySettings = {
     easy: {
-        greenZoneSize: 5, // adjust this in small increments
+        greenZoneSize: 2, // adjust this in small increments
         speed: 15,
         streaksRequired: 1,
     },
     medium: {
-        greenZoneSize: 8,
+        greenZoneSize: 2,
         speed: 25,
         streaksRequired: 2,
     },
     hard: {
-        greenZoneSize: 6,
+        greenZoneSize: 2,
         speed: 35,
         streaksRequired: 3,
     },
